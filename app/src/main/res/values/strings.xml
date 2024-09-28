@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next">Next</string>
+    <string name="pre">Previous</string>
+    <string name="title1">A Frozen Forest</string>
+    <string name="title2">A Peaceful trip </string>
+    <string name="title3">Snow and Forest</string>
+    <string name="A1">Aman Agarwal (2019)</string>
+    <string name="A2">Pritimaya Das (2018)</string>
+    <string name="A3">Raj Aryan (2020)</string>
+</resources>
